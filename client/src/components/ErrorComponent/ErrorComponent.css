@@ -1,0 +1,16 @@
+.err{
+    width: 80%;
+    height: 500px;
+    margin: 80px auto;
+}
+.err.alert{
+    padding: 50px !important    ;
+}
+#err{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #777;
+    font-size: -webkit-xxx-large;
+    font-family: fantasy;
+}

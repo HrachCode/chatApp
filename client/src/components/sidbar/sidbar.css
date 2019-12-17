@@ -1,0 +1,18 @@
+.wraper{
+    display: flex;
+}
+
+.barrContent{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 280px;
+}
+.btnbar{
+    width: 100%;
+    padding: 16px;
+    margin: 4px 0;
+}
+.barrContent h2{
+    text-align: center;
+    margin: 0 auto;
+}
